@@ -2,12 +2,12 @@
 
 Small console application written in C to simplify boolean functions with the Quine-McCluskey algorithm.
 
-# Licence
+## Licence
 
 Can be used freely even commercially (Public Domain)
 The author assumes no liability! Use this at your own risk!
 
-#How it works
+## How it works
 _</br>
 y	means (NOT y)
 
@@ -17,7 +17,7 @@ e.g.</br>
  _</br>
 yz means the case when y = 1 and z = 0.
 
-# Sample
+## Sample
 
 Here a simple sample for a NAND operator:
 
